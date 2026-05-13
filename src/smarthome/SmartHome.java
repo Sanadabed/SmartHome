@@ -4,6 +4,8 @@
  */
 package smarthome;
 
+import java.util.Scanner;
+
 public class SmartHome {
 
     public static void main(String[] args) {
